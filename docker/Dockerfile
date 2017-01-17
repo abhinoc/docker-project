@@ -1,3 +1,4 @@
+#Minor changes
 FROM alpine:3.4
 MAINTAINER abhinoc@gmail.com
 RUN apk --update add nginx php5-fpm && \
